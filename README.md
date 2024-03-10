@@ -1,1 +1,2 @@
-# curso_django
+# Treinamento Curso de Django
+Aqui vou guardar meu curso de Django
