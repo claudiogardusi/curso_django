@@ -1,2 +1,3 @@
-# Treinamento Curso de Django
-Aqui vou guardar meu curso de Django
+# Aprendendo a usar o Django
+
+## Aqui vou guardar meus aquivos do curso de Django
